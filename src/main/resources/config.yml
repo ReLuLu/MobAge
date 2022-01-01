@@ -1,0 +1,14 @@
+#DailyLight Configuration File
+#
+# IF SOMETHING BREAKS, DELETE THIS FILE, IT WILL BE REGENERATED ON RESTART
+#
+# prefix message in chat
+message-prefix: '&6[&rMobAge&6]'
+
+# primary color of chat messages
+primary-color: '&e'
+
+# secondary format of chat messages
+secondary-format: '&r'
+
+# to be continued...

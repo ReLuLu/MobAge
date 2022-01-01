@@ -1,0 +1,13 @@
+name: MobAge
+main: de.relulu.MobAge.MobAgeInit
+version: ${project.version}
+author: ReLuLu
+
+website: https://github.com/ReLuLu/MobAge
+api-version: 1.18
+
+commands:
+  mobage:
+    description: Basic MobAge command.
+    usage: /mobage
+    alias: ma
